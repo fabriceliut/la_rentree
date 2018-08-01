@@ -3,7 +3,7 @@
     <title>la-rentree</title>
     <link href="https://slaapme.github.io/la_rentree/feed.xml" rel="self" />
     <link href="https://slaapme.github.io/la_rentree" />
-    <updated>2018-08-01T18:38:44+02:00</updated>
+    <updated>2018-08-01T18:41:51+02:00</updated>
     <author>
         <name>Fabrice</name>
     </author>
@@ -72,7 +72,7 @@
         <id>https://slaapme.github.io/la_rentree/programme.html</id>
             <category term="Comment ça marche ?"/>
 
-        <updated>2018-08-01T18:24:58+02:00</updated>
+        <updated>2018-08-01T18:41:34+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -80,7 +80,7 @@
                 <p><strong>Vous avez besoin d'avoir une vue globale des 2 jours avant de vous lancer dans l'aventure ? C'est ici que vous trouverez le programme complet de la rentrée des idéaux !</strong></p>
 <p class="msg msg--highlight "><strong><em>Toutes les activités sont sur réservation en ligne prochainement.</em></strong><br><br><br>Vous trouverez également certaines activités payantes sur place, comme par exemple les repas du midi et les consommations des apéros et soirées. <strong>C'est un programme à la carte, à vous de construire vos journées !</strong> <br><br><em>Ci-dessous, toutes les informations pour bien vous organiser et préparer la meilleure expérience possible en notre compagnie.</em><br><br>Vous n'êtes pas obligés de participer à tous les événements ! Des espaces seront disponibles pour prendre du temps pour vous ou pour travailler : venez avec vos projets en cours !</p>
 <pre>RÉSERVEZ LES ACTIVITÉS ...</pre>
-<h2>Programmation du 6 septembre à SOFFFA 7ème.</h2>
+<h2>Prog du 6 septembre à SOFFFA 7ème.</h2>
 <p class="msg--highlight msg msg--info"><strong>9h</strong> - Accueil et rencontre autour d'un petit dej partagé.</p>
 <p class="msg msg--highlight "><strong>10h</strong> - Présentation de lancement - <em>Créons nos idéaux</em>.</p>
 <p class="msg msg--highlight   msg--success "><strong>11h</strong> - Atelier mieux-être - <em>Créer ton IKIGAI</em></p>
@@ -95,7 +95,7 @@
 <p class="msg msg--info"><strong>18h</strong> - Spectacle - <em>Improvisons vos idéaux</em></p>
 <p class="msg msg--info"><strong>19h</strong> - Dégustation &amp; Music - Cocktail<em>, pizza et musique à la monde</em></p>
 <p class="msg msg--info"><strong>22h</strong> - A tout ! <em>(on remet ça le lendemain !)</em></p>
-<h2>Programmation du 7 septembre à SOFFFA 1er.</h2>
+<h2>Prog du 7 septembre à SOFFFA 1er.</h2>
 <p class="msg--highlight msg "><strong>8h30</strong> - Creative Mornings - <em>Le chaos</em></p>
 <p class="msg msg--highlight   msg--info"><strong>9h30</strong> - Déjeuner partagé - <em>Le buffet idéal</em></p>
 <p class="msg msg--highlight   msg--success "><strong>10h</strong> - Atelier Créatif - <em>Peindre ton idéal</em></p>
@@ -107,7 +107,7 @@
 <p class="msg msg--success"><strong>14h</strong> - Atelier mieux-être - <em>La naturopathie</em></p>
 <p class="msg msg--success"><strong>14h</strong> - Atelier pro - <em>Le comptoir de la transition culturelle</em></p>
 <p class="msg msg--highlight "><strong>15h</strong> - L'Emission radio Live - <em>ASAP &amp; idéaux</em></p>
-<p class="msg msg--highlight "><strong>16h</strong> -L'Emission radio Live - <em>ASAP &amp; idéaux</em></p>
+<p class="msg msg--highlight "><strong>16h</strong> - L'Emission radio Live - <em>ASAP &amp; idéaux</em></p>
 <p class="msg--highlight msg msg--success"><strong>16h</strong> - Atelier mieux-être - <em>Moins de business plus de caresses</em></p>
 <p class="msg msg--highlight "><strong>17h</strong> - Conférence en conclusion - <em>L'arbre de nos idéaux</em></p>
 <p class="msg msg--info"><strong>18h</strong> - Apéro bières, détente et jeux</p>
