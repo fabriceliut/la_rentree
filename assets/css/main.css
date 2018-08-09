@@ -1762,42 +1762,4 @@ main {
 .pswp--light .pswp__caption__center {
   color: #343434; }
 
-/*  EU Cookie Law Bar  ------------------------ */
-.cookie-bar {
-  background: #f7f7f8;
-  bottom: 0;
-  font-size: 0.82397rem;
-  padding: 0.8rem;
-  position: fixed;
-  text-align: center;
-  width: 100%;
-  -webkit-transform: translateY(100%);
-  -ms-transform: translateY(100%);
-  transform: translateY(100%);
-  -webkit-transition: -webkit-transform 0.8s ease 0s;
-  transition: -webkit-transform 0.8s ease 0s;
-  -o-transition: transform 0.8s ease 0s;
-  transition: transform 0.8s ease 0s;
-  transition: transform 0.8s ease 0s, -webkit-transform 0.8s ease 0s;
-  will-change: transform;
-  z-index: 99999; }
-  .cookie-bar > p {
-    margin: 0; }
-    .cookie-bar > p a:hover {
-      text-decoration: underline;
-      -webkit-text-decoration-skip: ink;
-      text-decoration-skip: ink; }
-  .cookie-bar.is-sticky {
-    -webkit-transform: translateY(0);
-    -ms-transform: translateY(0);
-    transform: translateY(0); }
-  .cookie-bar__close {
-    display: block;
-    margin: 0.8rem auto 0;
-    padding: 0.53333rem 1.06667rem; }
-    @media all and (min-width: 56.25em) {
-      .cookie-bar__close {
-        display: inline-block;
-        margin: 0 0 0 1.6rem; } }
-
 /*# sourceMappingURL=main.css.map */
