@@ -3,7 +3,7 @@
     <title>la-rentree</title>
     <link href="https://slaapme.github.io/la_rentree/feed.xml" rel="self" />
     <link href="https://slaapme.github.io/la_rentree" />
-    <updated>2018-08-09T11:36:44+02:00</updated>
+    <updated>2018-08-09T11:49:47+02:00</updated>
     <author>
         <name>Fabrice</name>
     </author>
@@ -251,7 +251,7 @@
         </content>
     </entry>
     <entry>
-        <title>Un lieu, SOFFFA</title>
+        <title>Les lieux, SOFFFA</title>
         <author>
             <name>Fabrice</name>
         </author>
@@ -259,13 +259,13 @@
         <id>https://slaapme.github.io/la_rentree/sofffa.html</id>
             <category term="Comment ça marche ?"/>
 
-        <updated>2018-08-09T11:31:37+02:00</updated>
+        <updated>2018-08-09T11:41:41+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://slaapme.github.io/la_rentree/media/posts/14/15823224_1801375916784421_8117388125024263697_n.jpg" alt="" />
+                    <img src="https://slaapme.github.io/la_rentree/media/posts/14/Majorelle-1.jpg" alt="" />
                 <p>L’environnement conditionne notre état d’esprit, notre curiosité et l’inspiration. Les grandes idées ne se sont pas créés dans des salles de réunion. Elles surgissent lorsque nous nous sentons bien, dans un lieu confortable et familier.</p>
-<p>Pour LA RENTRÉE, notre choix s'est tout naturellement porté sur <a href="https://www.sofffa.com" target="_blank" rel="noopener noreferrer">SOFFFA</a>, l'espace parfait pour passer ces 2 jours ensemble !</p>
+<p>Pour LA RENTRÉE, notre choix s'est tout naturellement porté sur <a href="https://www.sofffa.com" target="_blank" rel="noopener noreferrer">SOFFFA</a>, St Cath &amp; Guillotière, deux espaces parfait pour passer ces 2 jours ensemble !</p>
 <p><strong>Certains diront comme à la maison, d'autres comme chez mamie, en tout cas il est certain que Sofffa est un lieu de vie chaleureux, inspirant et conviviale !</strong></p>
 <ul>
 <li>Des salons avec des gros fauteuils, des canapés mais aussi des tables pour s’installer</li>
@@ -288,11 +288,11 @@
         <id>https://slaapme.github.io/la_rentree/rentree-ideale.html</id>
             <category term="Comment ça marche ?"/>
 
-        <updated>2018-08-09T11:31:43+02:00</updated>
+        <updated>2018-08-09T11:49:38+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://slaapme.github.io/la_rentree/media/posts/2/rentree.jpg" alt="" />
+                    <img src="https://slaapme.github.io/la_rentree/media/posts/2/Rentree-ideaux-800x800-.jpg" alt="" />
                 <h2>Le Manifesto</h2>
 <p>En septembre 2017, nous vous avons proposé un événement qui devait marquer “la rentrée” et le début de l’année. Notre motivation, était de nous rassembler différemment !</p>
 <p>Nous avions à coeur d'effacer les frontières qui existent entre les rencontres professionnels, les événements autour du bien-être et les manifestations culturelles...</p>
