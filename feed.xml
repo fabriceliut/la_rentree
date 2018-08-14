@@ -3,7 +3,7 @@
     <title>la-rentree</title>
     <link href="https://slaapme.github.io/la_rentree/feed.xml" rel="self" />
     <link href="https://slaapme.github.io/la_rentree" />
-    <updated>2018-08-14T14:26:20+02:00</updated>
+    <updated>2018-08-14T15:09:46+02:00</updated>
     <author>
         <name>Fabrice</name>
     </author>
@@ -74,7 +74,7 @@
         <id>https://slaapme.github.io/la_rentree/programme.html</id>
             <category term="Comment ça marche ?"/>
 
-        <updated>2018-08-14T14:22:06+02:00</updated>
+        <updated>2018-08-14T15:09:37+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -91,7 +91,7 @@
 <p class="msg msg--info"><strong>12h30</strong> - Repas partagé - <em>Cuisine du monde et cuisine végétale</em></p>
 <p class="msg msg--info"><strong>13h30</strong> - Découverte &amp; dégustation de cafés</p>
 <p class="msg msg--success"><strong>14h</strong> - Atelier créatif - <em>autour de tes idéaux</em></p>
-<p class="msg msg--success"><strong>14h</strong> - Atelier pro - L<em>a complexité pour construire le monde</em></p>
+<p class="msg msg--success"><strong>14h</strong> - Atelier pro - <em>La complexité, matrice d'idéaux pour demain</em></p>
 <p class="msg msg--highlight "><strong>15h</strong> - Table ronde - <em>Feminité et parité</em></p>
 <p class="msg msg--success"><strong>16h30</strong> - Atelier géant - <em>Ce qui ne changera jamais</em></p>
 <p class="msg msg--info"><strong>18h</strong> - Spectacle - <em>Improvisons vos idéaux</em></p>
@@ -100,14 +100,14 @@
 <p class="msg msg--success"><strong><a href="https://yurplan.com/orga/SOFFFA/4815" target="_blank" rel="noopener noreferrer">Réserver la journée complète !</a></strong></p>
 <h2>Prog du 7 septembre à SOFFFA 1er.</h2>
 <p class="msg--highlight msg "><strong>8h30</strong> - Creative Mornings - <em>Le chaos</em></p>
-<p class="msg msg--highlight   msg--info"><strong>9h30</strong> - Déjeuner partagé - <em>Le buffet idéal</em></p>
-<p class="msg msg--highlight   msg--success "><strong>10h</strong> - Atelier mieux-être - <em>La naturo pour une santé parfaite</em></p>
+<p class="msg msg--highlight   msg--info"><strong>9h30</strong> - Déjeuner partagé - <em>Un idéal en bouche</em></p>
+<p class="msg msg--highlight   msg--success "><strong>10h</strong> - Atelier mieux-être - <em>Construire sa santé idéale</em></p>
 <p class="msg msg--highlight   msg--success "><strong>10h</strong> - Atelier pro - <em>Les idéaux contraires</em></p>
-<p class="msg msg--highlight "><strong>11h</strong> - Histoire inspirante - <em>Racontes-moi</em></p>
+<p class="msg msg--highlight "><strong>11h</strong> - Histoire inspirante - <em>Racontes-moi ta vie idéale</em></p>
 <p class="msg--highlight msg "><strong>12h</strong> - Happening surprise</p>
-<p class="msg msg--info"><strong>12h30</strong> - Repas partagé - <em>L'ayurveda pour ton repas santé parfaite</em></p>
+<p class="msg msg--info"><strong>12h30</strong> - Repas partagé - <em>Le repas idéal par l'Ayurvéda</em></p>
 <p class="msg msg--info"><strong>13h30</strong> - Découverte &amp; dégustation de cafés</p>
-<p class="msg msg--success"><strong>14h</strong> - Atelier Créatif - V<em>otre idéal urbain</em></p>
+<p class="msg msg--success"><strong>14h</strong> - Atelier Créatif - <em>Votre idéal urbain</em></p>
 <p class="msg msg--success"><strong>14h</strong> - Atelier pro - <em>Le comptoir de la transition culturelle</em></p>
 <p class="msg msg--highlight "><strong>15h</strong> - L'Emission radio Live - <em>ASAP &amp; idéaux</em></p>
 <p class="msg msg--highlight "><strong>16h</strong> - L'Emission radio Live - <em>ASAP &amp; idéaux</em></p>
