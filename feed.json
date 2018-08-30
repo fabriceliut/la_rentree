@@ -10,10 +10,135 @@
     },
     "items": [
         {
+            "id": "https://slaapme.github.io/la_rentree/After-surprise..html",
+            "url": "https://slaapme.github.io/la_rentree/After-surprise..html",
+            "title": "After surprise.",
+            "content_html": "<p>Sofffa ferme avant minuit. Pour ceux qui auront encore le plein d'énergie, l'after de la rentrée sera idéalement au GROOM, club cocktail &amp; soul, pour rester dans le thème.</p>\n<p>Cocktail moins cher au programme, bonne musique et pas de limite de bruit... Alors que la fête continue !</p>\n<p><br>Après le Groom, promis on arrête et ce sera certainement votre Week-end idéal ! <br><br>Merci :)</p>\n<p class=\"msg msg--success\"><strong>Ouvert à tous !</strong></p>\n<h2>Par le GROOM</h2>",
+            "image": "https://slaapme.github.io/la_rentree/media/posts/81/",
+            "author": {
+                "name": "Fabrice"
+            },
+            "tags": [
+                   "Fun"
+            ],
+            "date_published": "2018-08-30T10:51:25+02:00",
+            "date_modified": "2018-08-30T10:53:57+02:00"
+        },
+        {
+            "id": "https://slaapme.github.io/la_rentree/Copains-vin-saucisson-et-fromage..html",
+            "url": "https://slaapme.github.io/la_rentree/Copains-vin-saucisson-et-fromage..html",
+            "title": "Copains, vin, saucisson et fromage.",
+            "content_html": "<p>Maintenant que tout le monde est copains, l'idéal ne serait-il pas de revenir aux sources de notre culture ? Partageons le pain, le saucisson et le fromage. Se remplir l'estomac avec des bons produits de la région, juste avant de chanter et danser, peut-être bien toute la nuit. Fêter les idéaux dans la joie et la simplicité.</p>\n<p class=\"msg msg--highlight  msg--success\"><strong>Ouvert à tous, sans réservation</strong></p>\n<h2>Par la team SOFFFA.</h2>",
+            "image": "https://slaapme.github.io/la_rentree/media/posts/80/",
+            "author": {
+                "name": "Fabrice"
+            },
+            "tags": [
+                   "Rencontres",
+                   "Miam miam",
+                   "Fun"
+            ],
+            "date_published": "2018-08-30T10:43:47+02:00",
+            "date_modified": "2018-08-30T10:54:01+02:00"
+        },
+        {
+            "id": "https://slaapme.github.io/la_rentree/Apero-bieres-detente-et-jeux..html",
+            "url": "https://slaapme.github.io/la_rentree/Apero-bieres-detente-et-jeux..html",
+            "title": "Apéro bières, détente et jeux.",
+            "content_html": "<p>Quoi de mieux que déguster de la bière avec quelques jeux pour se détendre de ces 2 belles journées intenses ?<br>Bonnes bières variées, discussions passionnés, jeux de société. De la détente et de la rigolade pour annoncer la fête qui arrive quelques heures après...</p>\n<p class=\"msg msg--highlight  msg--success\"><strong>Ouvert à tous, sans réservation</strong></p>\n<h2>Par la team SOFFFA.</h2>",
+            "image": "https://slaapme.github.io/la_rentree/media/posts/79/",
+            "author": {
+                "name": "Fabrice"
+            },
+            "tags": [
+                   "Miam miam",
+                   "Fun"
+            ],
+            "date_published": "2018-08-30T10:41:43+02:00",
+            "date_modified": "2018-08-30T10:54:10+02:00"
+        },
+        {
+            "id": "https://slaapme.github.io/la_rentree/Racontes-moi-ta-vie-ideale..html",
+            "url": "https://slaapme.github.io/la_rentree/Racontes-moi-ta-vie-ideale..html",
+            "title": "Racontes-moi ta vie idéale.",
+            "content_html": "<p>Une heure pour une histoire. Une heure pour nous raconter une vie idéale. Une belle histoire, un beau rêve pour inspirer le vôtre. Un peu de poésie, un peu de coeur, l'amour pour demain et la passion pour le quotidien.<br>Venez vous affaler et écouter tout en douceur notre conteur du futur.</p>\n<p class=\"msg msg--highlight \"><strong><a href=\"https://yurplan.com/event/La-Rentree-des-ideaux-jour-2/30721\" target=\"_blank\" rel=\"noopener noreferrer\">Réservez votre place</a></strong></p>\n<h2>Par le conteur du futur.</h2>",
+            "image": "https://slaapme.github.io/la_rentree/media/posts/78/",
+            "author": {
+                "name": "Fabrice"
+            },
+            "tags": [
+                   "Fun"
+            ],
+            "date_published": "2018-08-30T10:38:32+02:00",
+            "date_modified": "2018-08-30T10:54:39+02:00"
+        },
+        {
+            "id": "https://slaapme.github.io/la_rentree/Creative-Mornings-Le-chaos.html",
+            "url": "https://slaapme.github.io/la_rentree/Creative-Mornings-Le-chaos.html",
+            "title": "Creative Mornings - Le chaos.",
+            "content_html": "<p>Les Creatives Mornings Lyon, c'est une partie d'une grosse communauté de créatifs mondiale ! Tout les mois, un thème à explorer, une vidéo à créer pour nourrir la plateforme web.<br>Ce mois-ci, c'est CHAOS. Un beau thème à intégrer dans la programmation idéale, vous ne pensez pas ?<br><br>Chaos, ordre, idéaux... Venez vous réveiller avec l'intervention d'un expert du chaos...</p>\n<p class=\"msg msg--highlight \"><strong><a href=\"https://yurplan.com/event/La-Rentree-des-ideaux-jour-2/30721\" target=\"_blank\" rel=\"noopener noreferrer\">Réservez votre place</a></strong></p>\n<h2>Par les Creatives Mornings Lyon.</h2>",
+            "image": "https://slaapme.github.io/la_rentree/media/posts/77/",
+            "author": {
+                "name": "Fabrice"
+            },
+            "tags": [
+                   "Rencontres"
+            ],
+            "date_published": "2018-08-30T10:34:49+02:00",
+            "date_modified": "2018-08-30T10:56:41+02:00"
+        },
+        {
+            "id": "https://slaapme.github.io/la_rentree/La-Selecta.html",
+            "url": "https://slaapme.github.io/la_rentree/La-Selecta.html",
+            "title": "La Selecta, musique et vin.",
+            "content_html": "<p>Une soirée pour la convivialité et finir cette première journée en beauté ! Quoi de mieux que du vin et une belle selecta musicale. Pour le vin on s'en occupe, pour ce qui est de la musique, ramenez vos vinyls, vos clés usb, vos comptes spotify, ce que vous voulez. Ce qui compte, c'est de nourrir cette playlist collective et d'en apprécier toute la variété.</p>\n<p class=\"msg msg--highlight  msg--success\"><strong>Ouvert à tous, sans réservation, paiement des consommations sur place.</strong></p>\n<h2>Par Julien et l'équipe SOFFFA.</h2>",
+            "image": "https://slaapme.github.io/la_rentree/media/posts/76/",
+            "author": {
+                "name": "Fabrice"
+            },
+            "tags": [
+                   "Miam miam",
+                   "Fun"
+            ],
+            "date_published": "2018-08-30T10:28:01+02:00",
+            "date_modified": "2018-08-30T10:56:46+02:00"
+        },
+        {
+            "id": "https://slaapme.github.io/la_rentree/Ce-qui-ne-changera-jamais.html",
+            "url": "https://slaapme.github.io/la_rentree/Ce-qui-ne-changera-jamais.html",
+            "title": "Ce qui ne changera jamais - Design fiction.",
+            "content_html": "<p>De quoi sera fait demain ? Nous nous posons tous la question et les réponses sont de moins en moins évidentes. Alors, utilisons la fiction, et plus précisément le Design fiction : ce sont des ateliers collaboratifs pour créer des projections, imaginer des futurs possible et souhaitables... ou pas.</p>\n<p>Et surtout partons d'une simple question, pourtant très importante : <strong>qu'est-ce qui ne changera jamais ?</strong></p>\n<p>Cet atelier sera géant, toutes les personnes sur place pourront participer. Ce sera un moment d'énergie collective pour un demain idéal !</p>\n<p class=\"msg msg--highlight   msg--success\"><strong>Ouvert à tous, sans réservation.</strong></p>\n<h2>Par la communauté Commons Future(s).</h2>\n<p>Communauté de réfléxion et de recherche autour des futurs possible et souhaitable, partant du constat de l'effondrement et de l'étude de la collapsologie.</p>",
+            "image": "https://slaapme.github.io/la_rentree/media/posts/75/",
+            "author": {
+                "name": "Fabrice"
+            },
+            "tags": [
+                   "Rencontres",
+                   "Professionnel"
+            ],
+            "date_published": "2018-08-30T10:24:04+02:00",
+            "date_modified": "2018-08-30T10:56:51+02:00"
+        },
+        {
+            "id": "https://slaapme.github.io/la_rentree/ton-cafe-ideal..html",
+            "url": "https://slaapme.github.io/la_rentree/ton-cafe-ideal..html",
+            "title": "Dégustation - Ton café idéal.",
+            "content_html": "<p>Dégustration de café à la cuillière suivant différents procédés et techniques. Différents grains, différentes qualités pour faire travailler votre nez et explorer par les papilles.</p>\n<p>Quel sera votre café idéal ?</p>\n<p class=\"msg msg--highlight  msg--success\"><strong>Sans réservation, ouvert à tous</strong></p>\n<h2>Par La belle brûlerie</h2>\n<p>Torréfacteur lyonnais depuis quelques mois :)</p>",
+            "image": "https://slaapme.github.io/la_rentree/media/posts/74/",
+            "author": {
+                "name": "Fabrice"
+            },
+            "tags": [
+                   "Miam miam"
+            ],
+            "date_published": "2018-08-30T10:19:00+02:00",
+            "date_modified": "2018-08-30T10:55:32+02:00"
+        },
+        {
             "id": "https://slaapme.github.io/la_rentree/Larbre-de-nos-ideaux.html",
             "url": "https://slaapme.github.io/la_rentree/Larbre-de-nos-ideaux.html",
-            "title": "L&#x27;arbre de nos idéaux",
-            "content_html": "<p>Voilà 2 jours de passés, beaucoup de créativité et d'exploration d'idéaux et de futurs possible. L'arbre des idéaux sera l'occasion de visualiser une grande partie de vos créations, de vos aspirations pour repartir avec le plein d'inspiration pour vos projets sur 2019.</p>\n<p>Notre monde de demain sera idéal. C'est sans aucun doute un idéal aussi, mais certainement pas impossible.</p>\n<p class=\"msg msg--highlight \"><a href=\"https://yurplan.com/orga/SOFFFA/4815\" target=\"_blank\" rel=\"noopener noreferrer\">Réserver votre place</a></p>\n<h2>Par Fabrice &amp; Hugo.</h2>",
+            "title": "L&#x27;arbre de nos idéaux.",
+            "content_html": "<p>Voilà 2 jours de passés, beaucoup de créativité et d'exploration d'idéaux et de futurs possible. L'arbre des idéaux sera l'occasion de visualiser une grande partie de vos créations, de vos aspirations pour repartir avec le plein d'inspiration pour vos projets sur 2019.</p>\n<p>Notre monde de demain sera idéal. C'est sans aucun doute un idéal aussi, mais certainement pas impossible.</p>\n<p class=\"msg msg--highlight \"><strong><a href=\"https://yurplan.com/event/La-Rentree-des-ideaux-jour-2/30721\" target=\"_blank\" rel=\"noopener noreferrer\">Réserver votre place</a></strong></p>\n<h2>Par Fabrice &amp; Hugo.</h2>",
             "image": "https://slaapme.github.io/la_rentree/media/posts/73/",
             "author": {
                 "name": "Fabrice"
@@ -22,13 +147,13 @@
                    "Rencontres"
             ],
             "date_published": "2018-08-29T11:25:17+02:00",
-            "date_modified": "2018-08-29T11:25:17+02:00"
+            "date_modified": "2018-08-30T10:55:50+02:00"
         },
         {
             "id": "https://slaapme.github.io/la_rentree/Lemission-de-radio-live-ASAP-and-Ideaux.html",
             "url": "https://slaapme.github.io/la_rentree/Lemission-de-radio-live-ASAP-and-Ideaux.html",
-            "title": "L&#x27;emission de radio live : ASAP &amp; Idéaux",
-            "content_html": "<p>L'émission ASAP (As Soon As Possible, dès que \"possible\")</p>\n<p>Les idéaux ce sont des possibles ! Des choses que nous pouvons atteindre, sentir, toucher, expérimenter, vivre...</p>\n<p>Mais qu'est-ce qui nous en empêche ?<br>Qu'est-ce qui fait que les possibles ne le sont pas ?<br>Qu'est-ce qu'il nous manque pour nous réaliser ?<br>Qu'est-ce qui freine notre capacité d'agir ?<br>Comment trouver le bon timing pour faire les choses ?<br>Quels sont les éléments extérieurs qui nous bloque ?<br>Que doit-on débloquer en nous pour s'ouvrir aux possibles ?</p>\n<p>Le tout en débat format \"grosses têtes\" avec moultes intervenants. Retransmission live sur les internets.</p>\n<p class=\"msg msg--highlight \"><a href=\"https://yurplan.com/orga/SOFFFA/4815\" target=\"_blank\" rel=\"noopener noreferrer\">Réserver votre place spectacteur</a></p>\n<h2>Par Hugo et tous ses adeptes</h2>",
+            "title": "L&#x27;emission de radio live : ASAP &amp; Idéaux.",
+            "content_html": "<p>L'émission ASAP (As Soon As Possible, dès que \"possible\")</p>\n<p>Les idéaux ce sont des possibles ! Des choses que nous pouvons atteindre, sentir, toucher, expérimenter, vivre...</p>\n<p>Mais qu'est-ce qui nous en empêche ?<br>Qu'est-ce qui fait que les possibles ne le sont pas ?<br>Qu'est-ce qu'il nous manque pour nous réaliser ?<br>Qu'est-ce qui freine notre capacité d'agir ?<br>Comment trouver le bon timing pour faire les choses ?<br>Quels sont les éléments extérieurs qui nous bloque ?<br>Que doit-on débloquer en nous pour s'ouvrir aux possibles ?</p>\n<p>Le tout en débat format \"grosses têtes\" avec moultes intervenants. Retransmission live sur les internets.</p>\n<p class=\"msg msg--highlight \"><strong><a href=\"https://yurplan.com/event/La-Rentree-des-ideaux-jour-2/30721\" target=\"_blank\" rel=\"noopener noreferrer\">Réserver votre place spectacteur</a></strong></p>\n<h2>Par Hugo et tous ses adeptes</h2>",
             "image": "https://slaapme.github.io/la_rentree/media/posts/72/",
             "author": {
                 "name": "Fabrice"
@@ -37,127 +162,7 @@
                    "Fun"
             ],
             "date_published": "2018-08-29T11:13:41+02:00",
-            "date_modified": "2018-08-29T11:25:22+02:00"
-        },
-        {
-            "id": "https://slaapme.github.io/la_rentree/Le-comptoir-de-la-transition-culturelle..html",
-            "url": "https://slaapme.github.io/la_rentree/Le-comptoir-de-la-transition-culturelle..html",
-            "title": "Le comptoir de la transition culturelle.",
-            "content_html": "<p>Notre société est en pleine transition.<br>Ce que nous vivons est une profonde transition culturelle globale. En effet, nos valeurs, nos principes, nos idéaux sont en train de changer, ce qui change les bases même de nos modes de vie.</p>\n<p>Cette période de transition entraîne une perte de sens généralisée, de la complexité et des difficultés à se projeter dans l'avenir.</p>\n<p><strong>Le comptoir vous propose d'explorer vos problématiques liées à cette transition.</strong></p>\n<p>Quelques repères en #hashtags :</p>\n<ul>\n<li>transformation numérique</li>\n<li>effondrement</li>\n<li>futur du travail</li>\n<li>conduite du changement</li>\n<li>expérience collaborateur</li>\n<li>transformation des organisations</li>\n<li>conseil aux dirigeants</li>\n<li>redéfinition de la vision</li>\n<li>accompagnement dans la gestion d'écosystème</li>\n<li>mise en collaboration</li>\n<li>problématiques de gouvernance</li>\n</ul>\n<p>Votre expérience au comptoir est simple : tout commence par une discussion conviviale et collective. Nous détectons ensemble les causes à vos problèmes de transition et nous apportons des pistes de solutions.</p>\n<p><strong>Dans le cadre de La Rentrée des Idéaux, 3 experts du comptoir seront présents pour apporter ressources, études et cas concrets pour déverrouiller votre champ des possible.</strong></p>\n<p class=\"msg msg--highlight \"><a href=\"https://yurplan.com/orga/SOFFFA/4815\" target=\"_blank\" rel=\"noopener noreferrer\">Réserver votre place</a></p>\n<h2>Par Fanny, Hugo et Fabrice.</h2>",
-            "image": "https://slaapme.github.io/la_rentree/media/posts/71/",
-            "author": {
-                "name": "Fabrice"
-            },
-            "tags": [
-                   "Professionnel"
-            ],
-            "date_published": "2018-08-29T11:08:35+02:00",
-            "date_modified": "2018-08-29T11:25:26+02:00"
-        },
-        {
-            "id": "https://slaapme.github.io/la_rentree/Votre-ideal-urbain..html",
-            "url": "https://slaapme.github.io/la_rentree/Votre-ideal-urbain..html",
-            "title": "Votre idéal urbain.",
-            "content_html": "<p>Ré-enchanter une ville, c'est lui redonner des couleurs, du caractère et de la beauté. De la beauté esthétique, mais aussi sociale et de la surprise !</p>\n<p>Certaines initiatives comme <strong>Superposition</strong> se proposent pour accompagner une dynamique de renouveau des villes.<br>Cette dynamique est collective et citoyenne : tout le monde peut réa-enchanter son immeuble, son quartier, son arrondissement.</p>\n<p><strong>Mais comment construire notre Lyon Idéal ?</strong> C'est la question à laquelle vous tenterez d'apporter des pistes de réponses avec Orbiane.</p>\n<p class=\"msg msg--highlight \"><a href=\"https://yurplan.com/orga/SOFFFA/4815\" target=\"_blank\" rel=\"noopener noreferrer\">Réserver votre place</a></p>\n<h2>Par Orbiane</h2>",
-            "image": "https://slaapme.github.io/la_rentree/media/posts/70/",
-            "author": {
-                "name": "Fabrice"
-            },
-            "tags": [
-                   "Mieux-être"
-            ],
-            "date_published": "2018-08-29T11:03:51+02:00",
-            "date_modified": "2018-08-29T11:05:42+02:00"
-        },
-        {
-            "id": "https://slaapme.github.io/la_rentree/Improvisons-vos-ideaux.html",
-            "url": "https://slaapme.github.io/la_rentree/Improvisons-vos-ideaux.html",
-            "title": "Improvisons vos idéaux",
-            "content_html": "<p>Durant toute la première journée, beaucoup d'inspirations d'idéaux vont émerger : ce sera les bases parfaites pour improviser de belles histoires !</p>\n<p>Durant 1h, notre troupe d'improvisation tentera de rendre réel vos idéaux, vos futurs imaginés : un bon moyen de découvrir en spectateurs ces avenirs possibles !</p>\n<p class=\"msg msg--highlight \"><a href=\"https://yurplan.com/orga/SOFFFA/4815\" target=\"_blank\" rel=\"noopener noreferrer\">Réserver votre place</a></p>\n<h2>Par la Fine Equipe</h2>",
-            "image": "https://slaapme.github.io/la_rentree/media/posts/69/",
-            "author": {
-                "name": "Fabrice"
-            },
-            "tags": [
-                   "Fun"
-            ],
-            "date_published": "2018-08-29T11:01:28+02:00",
-            "date_modified": "2018-08-29T11:05:21+02:00"
-        },
-        {
-            "id": "https://slaapme.github.io/la_rentree/la-parite-il-faut-encore-en-parler.html",
-            "url": "https://slaapme.github.io/la_rentree/la-parite-il-faut-encore-en-parler.html",
-            "title": "La parité, il faut encore en parler.",
-            "content_html": "<p>À peu de choses près, nous sommes 50% de chaque, femme et homme. Et pourtant, il n’y a que 24 femmes PDG dans les 500 plus grandes entreprises américaines. Et 22 sont blanches ! Où est le plafond de verre, et comment le pulvériser ?<br><br>Quel que soit votre genre, venez avec nous et notre petit panel pour discuter ensemble des grandes notions et questions polémiques qui animent le débat autour de la parité, du féminisme et de l’égalité dans l’entreprise mais aussi dans la société. Cette table ronde / atelier sera ludique, créative et bienveillante.<br><br>À la clé de ce moment ensemble, nous tenterons d’identifier six leviers pour que chacune et chacun puisse faire avancer la parité dans son propre écosystème.</p>\n<p class=\"msg msg--highlight \"><a href=\"https://yurplan.com/orga/SOFFFA/4815\" target=\"_blank\" rel=\"noopener noreferrer\">Réserver votre place</a></p>\n<h2><br>Par Marie-Cécile Paccard</h2>\n<p>designer systémique et féministe intersectionnelle.</p>",
-            "image": "https://slaapme.github.io/la_rentree/media/posts/68/",
-            "author": {
-                "name": "Fabrice"
-            },
-            "tags": [
-                   "Mieux-être"
-            ],
-            "date_published": "2018-08-29T10:59:35+02:00",
-            "date_modified": "2018-08-29T11:04:55+02:00"
-        },
-        {
-            "id": "https://slaapme.github.io/la_rentree/SOFFFA-Smooth-Sessions..html",
-            "url": "https://slaapme.github.io/la_rentree/SOFFFA-Smooth-Sessions..html",
-            "title": "SOFFFA Smooth Sessions.",
-            "content_html": "<p>Edition spéciale \"La rentrée des Idéaux\", pour ouvrir la saison en beauté ! <br><br>Les SOFFFA SMOOTH SESSIONS, en partenariat avec Sounds So Beautiful, reviennent à la rentrée au slow-café!<br><br>Pendant une première saison, ces soirées afterwork aux airs de Tiny Desk et de Sofar Sounds, ont conquis le cœur des lyonnais, avec le souhait d’offrir aux musiciens émergents une nouvelle opportunité de se produire et de valoriser leurs projets.<br><br>A partir de ce 7 Septembre, chaque 1er vendredi du mois, la programmation redémarre, pour une deuxième saison de concerts acoustiques aux sonorités neo-soul et hip-hop/jazz, toujours couronnés de leurs traditionnels open-mic, appelés soul-cypher.<br><br>Les premiers épisodes SOFFFA SMOOTH SESSIONS sont disponibles <a href=\"https://www.youtube.com/watch?v=XYb-ZFNsnVI&amp;list=PLtPphlBLiqAcWI2h0TCdEQuwM-m2eb9gS\" target=\"_blank\" rel=\"noopener noreferrer\">sur le chaîne YouTube</a> de SOFFFA. <br><br>Venez découvrir Célia Tiab pour la première fois sur Lyon ce vendredi dès 20h !<br><br>&gt; <a href=\"https://www.youtube.com/watch?v=9tQy_Oxq0DU\" target=\"_blank\" rel=\"noopener noreferrer\">Célia Tiab Music</a></p>\n<p class=\"msg msg--highlight \"><a href=\"https://www.facebook.com/events/218957622305541/\" target=\"_blank\" rel=\"noopener noreferrer\">Evènement Facebook</a> - Accès libre.</p>\n<h2>Avec Sounds So Beautiful</h2>\n<p><em>Programmateur musical de SOFFFA et musicien.</em></p>\n<p><img class=\"post__image--center\" src=\"https://slaapme.github.io/la_rentree/media/posts/67/sofffa_smooth_session.jpg\" alt=\"\" width=\"960\" height=\"540\"></p>\n<p> </p>",
-            "image": "https://slaapme.github.io/la_rentree/media/posts/67/Smooth.jpg",
-            "author": {
-                "name": "Fabrice"
-            },
-            "tags": [
-                   "Fun"
-            ],
-            "date_published": "2018-08-27T12:45:28+02:00",
-            "date_modified": "2018-08-29T11:34:50+02:00"
-        },
-        {
-            "id": "https://slaapme.github.io/la_rentree/Moins-de-business-plus-de-caresses..html",
-            "url": "https://slaapme.github.io/la_rentree/Moins-de-business-plus-de-caresses..html",
-            "title": "Moins de business, plus de caresses.",
-            "content_html": "<p>Freelance 24/24, dans la taverne d’Ali baba de vos cerveaux en ébullition et face à la charge mentale que génère la création d’un projet, pas facile de prendre le temps. Alors, oui au Sofffa on prend le temps, mais bien souvent de bosser plutôt que de souffler !</p>\n<p>L’érotisme et la sexologie, au-delà de la sphère intime a beaucoup à nous apprendre en matière de gestion de business. Dans une génération qui à vue naître l’effet boomerang du trop-plein : Le burn-out, un seul mot d’ordre : <strong>Moins de business plus de caresses !</strong></p>\n<p>Alors ça vous tente une conférence Inter-active pour caresser cette idée ensemble ?</p>\n<p class=\"msg msg--highlight \"><a href=\"https://yurplan.com/event/La-Rentree-des-ideaux-jour-2/30721\" target=\"_blank\" rel=\"noopener noreferrer\">Réserver votre place</a></p>\n<h2>Avec Kate</h2>\n<p><em>Psychologue &amp; sexologue.</em></p>\n<p> </p>",
-            "image": "https://slaapme.github.io/la_rentree/media/posts/66/Kate.jpg",
-            "author": {
-                "name": "Fabrice"
-            },
-            "tags": [
-                   "Mieux-être"
-            ],
-            "date_published": "2018-08-27T12:38:51+02:00",
-            "date_modified": "2018-08-29T11:33:32+02:00"
-        },
-        {
-            "id": "https://slaapme.github.io/la_rentree/Le-repas-ideal-par-lAyurveda..html",
-            "url": "https://slaapme.github.io/la_rentree/Le-repas-ideal-par-lAyurveda..html",
-            "title": "Le repas idéal par l&#x27;Ayurvéda.",
-            "content_html": "<p>Introduction à l'Ayurvéda - Découverte &amp; initiation.<br><br>Découvrez le test pour trouver son profil (doshas) avec les explications des doshas dans la vie &amp; dans l'assiette.</p>\n<p>Ensuite, Confectionnez votre repas idéal en fonction de votre profile et dégustons nos préparations ensemble.<br><br></p>\n<p><img class=\"post__image--center\" src=\"https://slaapme.github.io/la_rentree/media/posts/65/ayurveda.jpg\" alt=\"\" width=\"564\" height=\"564\"></p>\n<h2>AYURVEDA TALK</h2>\n<p>L'ayurvéda est une médecine indienne vieille de 5000 ans.<br>basée sur une longue histoire d'observations et d'expérimentations des êtres humains.<br>Ses trois piliers sont la nutrition, les routines de vie et la phytothérapie.<br>Cette médecine est holistique, préventive et curative. Elle est basée sur l'individu et considère que les éléments de l'environnement et de notre alimentation nous influencent.<br><br>Elle a donc construit tout son système autour des 5 éléments (eau terre feu air espace) et de 3 doshas... la suite le 6 septembre !</p>\n<h3>REPAS 12€</h3>\n<p class=\"msg msg--highlight \"><a href=\"https://yurplan.com/event/La-Rentree-des-ideaux-jour-2/30721\" target=\"_blank\" rel=\"noopener noreferrer\">Réservation du repas pour 12€</a></p>\n<h2>Avec Octavie</h2>\n<p><em>Traiteure indépendante.</em> <br><br><br></p>",
-            "image": "https://slaapme.github.io/la_rentree/media/posts/65/Octa.jpg",
-            "author": {
-                "name": "Fabrice"
-            },
-            "tags": [
-                   "Miam miam"
-            ],
-            "date_published": "2018-08-27T12:29:42+02:00",
-            "date_modified": "2018-08-29T11:32:55+02:00"
-        },
-        {
-            "id": "https://slaapme.github.io/la_rentree/La-tablee-familiale-avec-Albertina..html",
-            "url": "https://slaapme.github.io/la_rentree/La-tablee-familiale-avec-Albertina..html",
-            "title": "La tablée familiale avec Albertina.",
-            "content_html": "<p>Jeudi midi, c'est Albertina qui nous régale ! On se retrouvera autour d'un repas aux allures de grande tablée familiale, avec un menu aux spécialités cap-verdiennes / portugaises... On en a déjà l'eau à la bouche !</p>\n<p class=\"msg msg--success\"><strong>Au menu :</strong></p>\n<ul>\n<li>Une bonne salade composée, maison, pour nous ouvrir les papilles...</li>\n<li>Du Bacalhau <em>(bien sûr qu'on va manger de la morue !)</em>, LE plat portugais par excellence, accompagné de riz...</li>\n<li>Et pour finir en beauté, deux desserts, rien que ça ! Pudding de leche et gâteau roulé à la confiture de goyave...</li>\n</ul>\n<em>Qui a faim ??</em><br>\n<p class=\"msg msg--highlight \"><a href=\"https://yurplan.com/event/La-Rentree-des-ideaux-jour-1/30718\" target=\"_blank\" rel=\"noopener noreferrer\">Réserver votre repas pour 12€</a></p>\n<h2>Avec Albertina Monteiro</h2>\n<p>07 67 58 97 96</p>\n<p> </p>",
-            "image": "https://slaapme.github.io/la_rentree/media/posts/64/Albertina.jpg",
-            "author": {
-                "name": "Fabrice"
-            },
-            "tags": [
-                   "Miam miam"
-            ],
-            "date_published": "2018-08-27T12:24:21+02:00",
-            "date_modified": "2018-08-29T11:29:41+02:00"
+            "date_modified": "2018-08-30T10:56:57+02:00"
         }
     ]
 }
